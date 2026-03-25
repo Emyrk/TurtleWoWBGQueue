@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: TurtleWoWBGQueue
+## Version: 1.0
+## DefaultState: enabled
+## Author: Emyrk
+
+
+core.lua
